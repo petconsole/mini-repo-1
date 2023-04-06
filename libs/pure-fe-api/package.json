@@ -1,0 +1,7 @@
+{
+  "name": "@pure/pure-fe-api",
+  "version": "0.0.1",
+  "dependencies": {
+    "yup": "^0.32.11"
+  }
+}

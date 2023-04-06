@@ -14,7 +14,12 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@pure/pure-fe-amplify": ["libs/pure-fe-amplify/src/index.ts"],
+      "@pure/pure-fe-api": ["libs/pure-fe-api/src/index.ts"],
+      "@pure/pure-fe-icon": ["libs/pure-fe-icon/src/index.ts"],
+      "@pure/pure-fe-utils": ["libs/pure-fe-utils/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
