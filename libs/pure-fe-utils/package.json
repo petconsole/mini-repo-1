@@ -1,8 +1,0 @@
-{
-  "name": "@pure/pure-fe-utils",
-  "version": "0.0.1",
-  "dependencies": {
-    "date-fns": "^2.29.3",
-    "ulid": "^2.3.0"
-  }
-}

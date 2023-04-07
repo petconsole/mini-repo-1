@@ -1,7 +1,0 @@
-{
-  "name": "@pure/pure-fe-icon",
-  "version": "0.0.1",
-  "dependencies": {
-    "react": "^18.2.0"
-  }
-}
